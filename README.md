@@ -19,7 +19,7 @@ The Budget Tracker is an application that allows to track the budget and leverag
 ## Deployed Application 
 
 [Budget Tracker](https://floating-retreat-05984.herokuapp.com/)<br />
-![Image]()
+![Image](https://github.com/izabelacloud/Budget--Tracker/blob/master/assets/budget-tracker.png?raw=true)
 
 
 ## User Story 
